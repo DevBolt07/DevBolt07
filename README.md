@@ -91,4 +91,11 @@ Co-author, under faculty supervision (Prof. Varsha Dange, VIT Pune) — **Accept
 
 ### ⏱️ Weekly Coding Activity (WakaTime):
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 June 2026 - To: 20 June 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
