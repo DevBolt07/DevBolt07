@@ -19,7 +19,7 @@ AI/ML undergraduate @ VIT Pune • Full Stack Developer • Building RAG, XAI & 
 - 🌱 Exploring **Explainable AI (XAI)** for edge/browser-based ML
 - 💬 Ask me about: **React, FastAPI, Supabase, TensorFlow.js, RAG**
 
-📄 **[Download My Resume](#)**
+📄 **[Download My Resume](https://drive.google.com/file/d/1zwGDwMj2eqCR-xFtVFBRAoFNRjUWk1r2/view?usp=sharing)**
 
 ---
 
