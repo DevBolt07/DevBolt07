@@ -7,9 +7,19 @@ AI/ML undergraduate @ VIT Pune • Full Stack Developer • Building RAG, XAI & 
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantkumar-lakhane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemantkumar-lakhane-22502a327/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevBolt07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/hemantkumar-lakhane)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/hemantkumar_lakhane/)
+
+---
+
+### 🔭 Currently Building / Learning:
+- 🚧 Building **NutriLabel AI v2** — adding multilingual OCR + expanded RAG knowledge base
+- 📚 Learning **Advanced RAG architectures & LLM agents**
+- 🌱 Exploring **Explainable AI (XAI)** for edge/browser-based ML
+- 💬 Ask me about: **React, FastAPI, Supabase, TensorFlow.js, RAG**
+
+📄 **[Download My Resume](#)**
 
 ---
 
@@ -66,3 +76,19 @@ Co-author, under faculty supervision (Prof. Varsha Dange, VIT Pune) — **Accept
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBolt07&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevBolt07&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevBolt07&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/DevBolt07)
+
+---
+
+### 🐍 Contribution Snake:
+![snake animation](https://raw.githubusercontent.com/DevBolt07/DevBolt07/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⏱️ Weekly Coding Activity (WakaTime):
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
