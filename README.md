@@ -93,7 +93,7 @@ Co-author, under faculty supervision (Prof. Varsha Dange, VIT Pune) — **Accept
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2025 - To: 20 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
 No activity tracked
 ```
