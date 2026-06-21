@@ -12,6 +12,8 @@ jobs:
   update-readme:
     name: Update WakaTime stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: athul/waka-readme@master
