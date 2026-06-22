@@ -93,9 +93,13 @@ Co-author, under faculty supervision (Prof. Varsha Dange, VIT Pune) — **Accept
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-No activity tracked
+Markdown     21 mins               ██████████▒░░░░░░░░░░░░░░   40.94 %
+YAML         15 mins               ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+Python       13 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Text         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
