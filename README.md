@@ -311,13 +311,13 @@ Working under faculty supervision (Prof. Varsha Dange) on applied AI research at
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
-Python       4 hrs 26 mins         ████████████████▓░░░░░░░░   66.43 %
-Markdown     51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-HTML         31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Other        18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-JSON         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python       4 hrs 26 mins         ██████████▓░░░░░░░░░░░░░░   43.26 %
+HTML         2 hrs 8 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+Markdown     2 hrs 1 min           █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+TypeScript   25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Other        23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
